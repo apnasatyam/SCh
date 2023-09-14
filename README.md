@@ -1,0 +1,2 @@
+# SCh
+School Management sysem
